@@ -1,6 +1,6 @@
 #  Personal Profile Card
 
-A modern and responsive **Personal Profile Card** built using **HTML5** and **CSS3** as part of the NeuroFive Solutions Frontend Web Development Internship - Week 1 Task.
+A modern and responsive **Personal Profile Card** built using **HTML5** and **CSS3**.
 
 # Project Overview
 
